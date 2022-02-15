@@ -15,7 +15,7 @@ const Edit = ( {add} ) =>{
         function timeChange(e) {
             setTime(e.target.value)
         }
-
+ 
     //console.log(note , date , time);
         //確定會修改文件
     function addItem() {
