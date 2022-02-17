@@ -1,5 +1,5 @@
 # React練習
-來源:https://www.youtube.com/watch?v=zqV7NIFGDrQ&t=6258s&ab_channel=%E5%B8%83%E9%AD%AF%E6%96%AF%E5%89%8D%E7%AB%AF
+來源:https://github.com/scps960740/React-crash-course-2021-bruceFE
 
 框架:React
 
